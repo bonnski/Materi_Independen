@@ -1,2 +1,2 @@
 # Materi_Independen
-Kumpulan materi yang sudah dipelajari selama belajar di orbit
+Materi pribadi selama belajar di orbit
